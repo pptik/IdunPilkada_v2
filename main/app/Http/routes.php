@@ -26,3 +26,9 @@ Route::get('/home', 'HomeController@index');
 Route::get('/home', function () {
     return view('pilkada.index');
 });
+Route::get('/2017', function () {
+    return view('pilkada.2017');
+});
+Route::get('2017', function () {
+    return view('pilkada.2017');
+});

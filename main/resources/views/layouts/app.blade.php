@@ -77,7 +77,7 @@
                     <a style="background: #a94442 ; border-width: 0cm;align-content: flex-start" class="btn btn-primary dropdown-toggle" data-toggle="dropdown"><span style="color: white;align-content: flex-start;text-align: left">Tahun</span> <span class="caret"></span></a>
                         <ul class="dropdown-menu ">
 
-                            <li><a href="#">2017</a></li>
+                            <li><a href="/2017">2017</a></li>
                         </ul>
                 </li>
             </ul>
