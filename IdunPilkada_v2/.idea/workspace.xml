@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="218f0b57-7bc7-4aee-9085-478ac52abe2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="C:/xampp/htdocs/IdunPilkada_v2/apps/app/Http/Controllers/CData.php" />
-      <change type="MODIFICATION" beforePath="C:/xampp/htdocs/IdunPilkada_v2/apps/routes/web.php" afterPath="C:/xampp/htdocs/IdunPilkada_v2/apps/routes/web.php" />
-      <change type="MODIFICATION" beforePath="C:/xampp/htdocs/IdunPilkada_v2/.idea/workspace.xml" afterPath="C:/xampp/htdocs/IdunPilkada_v2/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/app/Http/Controllers/CData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/routes/web.php" afterPath="$PROJECT_DIR$/apps/routes/web.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,20 +44,20 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/xampp/htdocs/IdunPilkada_v2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="C:/xampp/htdocs/IdunPilkada_v2/apps/app/Http/Controllers/CData.php" />
-        <option value="C:/xampp/htdocs/IdunPilkada_v2/apps/resources/views/template/index.blade.php" />
-        <option value="C:/xampp/htdocs/IdunPilkada_v2/apps/routes/web.php" />
-        <option value="C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/pilkada/index.blade.php" />
-        <option value="C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/welcome.blade.php" />
-        <option value="C:/xampp/htdocs/IdunPilkada_v2/main/resources/assets/css/bootstrap.min.css" />
-        <option value="C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/pilkada/2017.blade.php" />
-        <option value="C:/xampp/htdocs/IdunPilkada_v2/main/app/Http/routes.php" />
-        <option value="C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/apps/app/Http/Controllers/CData.php" />
+        <option value="$PROJECT_DIR$/apps/resources/views/template/index.blade.php" />
+        <option value="$PROJECT_DIR$/apps/routes/web.php" />
+        <option value="$PROJECT_DIR$/main/resources/views/pilkada/index.blade.php" />
+        <option value="$PROJECT_DIR$/main/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/main/resources/assets/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/main/resources/views/pilkada/2017.blade.php" />
+        <option value="$PROJECT_DIR$/main/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/main/resources/views/layouts/app.blade.php" />
       </list>
     </option>
   </component>
@@ -89,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -325,11 +324,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/xampp/htdocs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -416,17 +416,18 @@
       <workItem from="1485850270917" duration="1438000" />
       <workItem from="1485851781215" duration="5575000" />
       <workItem from="1486009486691" duration="1866000" />
+      <workItem from="1486091382789" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9149000" />
+    <option name="totallyTimeSpent" value="9162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2514706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2514706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -456,23 +457,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/layouts/app.blade.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -480,14 +465,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/assets/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84065">
-          <caret line="4945" column="15" lean-forward="false" selection-start-line="4945" selection-start-column="12" selection-end-line="4945" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main/app/Http/routes.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/welcome.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/layouts/app.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/css/bootstrap.min.css" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -496,60 +477,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/app/Http/Middleware/RedirectIfAuthenticated.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/resources/views/template/about.blade.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/routes/console.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/routes/channels.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/routes/api.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/app/Http/Controllers/Controller.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/app/User.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/app/Http/Controllers/CData.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/app/Http/Kernel.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/resources/views/template/index.blade.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/apps/routes/web.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/auth/emails/password.blade.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/assets/js/hover.zoom.conf.js" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/pilkada/index.blade.php" />
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/assets/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84065">
-          <caret line="4945" column="15" lean-forward="false" selection-start-line="4945" selection-start-column="12" selection-end-line="4945" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/pilkada/2017.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/IdunPilkada_v2/main/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="79" column="42" lean-forward="false" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/app/Http/Middleware/RedirectIfAuthenticated.php" />
+    <entry file="file://$PROJECT_DIR$/apps/resources/views/template/about.blade.php" />
+    <entry file="file://$PROJECT_DIR$/apps/routes/console.php" />
+    <entry file="file://$PROJECT_DIR$/apps/routes/channels.php" />
+    <entry file="file://$PROJECT_DIR$/apps/routes/api.php" />
+    <entry file="file://$PROJECT_DIR$/apps/app/Http/Controllers/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/apps/app/User.php" />
+    <entry file="file://$PROJECT_DIR$/apps/app/Http/Controllers/CData.php" />
+    <entry file="file://$PROJECT_DIR$/apps/app/Http/Kernel.php" />
+    <entry file="file://$PROJECT_DIR$/apps/resources/views/template/index.blade.php" />
+    <entry file="file://$PROJECT_DIR$/apps/routes/web.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/auth/emails/password.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/js/hover.zoom.conf.js" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/pilkada/index.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/assets/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/pilkada/2017.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/welcome.blade.php" />
+    <entry file="file://$PROJECT_DIR$/main/app/Http/routes.php" />
+    <entry file="file://$PROJECT_DIR$/main/resources/views/layouts/app.blade.php" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">

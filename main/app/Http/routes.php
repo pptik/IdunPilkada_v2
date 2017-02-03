@@ -32,3 +32,5 @@ Route::get('/2017', function () {
 Route::get('2017', function () {
     return view('pilkada.2017');
 });
+
+Route::get('/detailsuara/{id_daerah}', 'CPilkada@getdatapilkada');
